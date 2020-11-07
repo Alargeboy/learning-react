@@ -1,0 +1,17 @@
+.text-muted{
+    color:black !important
+}
+.info{
+    font-size:18px
+}
+
+.row{
+    margin-bottom:15px;
+    border-bottom:grey solid 1px; 
+}
+
+.table{
+    margin-top:10px;
+    border:2px solid rgb(21, 189, 21);
+    padding:15px;
+}
